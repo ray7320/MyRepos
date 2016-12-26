@@ -1,3 +1,7 @@
 haha, this just a test
 
 This is the changed line.
+
+This is the 2nd changed line.
+
+This is the 3rd line.
